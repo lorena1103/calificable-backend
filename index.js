@@ -11,3 +11,4 @@ servidor.get("/", (solicitud, respuesta) =>{
 
 
 servidor.listen (3000);
+console.log("perfect")
